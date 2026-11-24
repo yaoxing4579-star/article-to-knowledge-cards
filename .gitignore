@@ -1,0 +1,8 @@
+# WorkBuddy internal data (memory, logs) - not part of the open-source deliverable
+.workbuddy/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+*.swp
+*~
